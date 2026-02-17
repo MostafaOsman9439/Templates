@@ -330,6 +330,12 @@ header .mega-menu .links li a i{
     padding-bottom: 120px;
 }
 
+@media (max-width: 991px) {
+    .landing .container {
+      flex-direction: column;
+    }
+}
+
 .landing .text {
     flex: 1;
 }
@@ -337,6 +343,7 @@ header .mega-menu .links li a i{
 @media (max-width: 991px) {
     .landing .text {
         text-align: center;
+        margin-top: 50px;
     }
 }
 
@@ -381,7 +388,7 @@ header .mega-menu .links li a i{
 
 @media (max-width: 991px) {
     .landing .container .image img {
-        display: none;
+        max-width: 100%;
     }
 }
 
