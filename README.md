@@ -40,4 +40,5 @@ This landing page is packed with dynamic CSS layouts and modern UI components:
 Special thanks from the bottom of my heart to **Osama Elzero** (Elzero Web School) for providing the elite training and challenges that helped me master HTML & CSS to build layouts of this scale! 
 
 ---
-💡 *Built with passion by Mostafa Osman.*
+
+*Built with passion by Mostafa Osman.*
